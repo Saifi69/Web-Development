@@ -11,7 +11,7 @@ Basic HTML Structure (<!DOCTYPE html>, <html>, <head>, <body>)
 
 Text formatting with:
 
-<b>, <i>, <u>, <big>, <small>
+bold, italic. underline
 
 Usage of line breaks ("br") 
 and horizontal rules ("hr")
