@@ -13,8 +13,8 @@ Text formatting with:
 
 <b>, <i>, <u>, <big>, <small>
 
-Usage of line breaks (<br>) 
-and horizontal rules (<hr>)
+Usage of line breaks ("br") 
+and horizontal rules ("hr")
 
 Display of an image using <img>
 
@@ -29,6 +29,5 @@ Chemical formula: H₂SO₄
 Math formula: (a+b)² = a² + 2ab + b²
 
 Use of the <pre> tag for preformatted text
-
-Semantic headings
-(<h1>, <h2>, <h3>)
+headings
+(h1, h2, h3)
